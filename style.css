@@ -1,0 +1,22 @@
+body{
+    background-color: gray;
+    text-align: center;
+}
+
+.text{
+    font-size: 60px;
+}
+.time{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.box{
+    border: 2px solid black;
+    height: 70px;
+    width: 100px;
+    font-size: 50px;
+    background-color: rgb(74, 72, 72);
+    color: aliceblue;
+}
